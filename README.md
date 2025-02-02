@@ -6,11 +6,11 @@ Welcome to my repository of Capture The Flag (CTF) challenge write-ups! Here, yo
 
 ### Forensics - USBNET
 **Challenge:** USBNET (Forensics)  
-**Write-up:** [Read Here](https://github.com/SPECT3R0/Writeups-of-CTFs-/wiki/NULLCON:-USBNET)
+**Write-up:** [Read Here](https://github.com/SPECT3R0/Writeups-of-CTFs-/wiki/NULLCON:-USBNET-(Forensics))
 
 ### Web - Paginator
 **Challenge:** Paginator (Web Exploitation)  
-**Write-up:** [Read Here](https://github.com/SPECT3R0/Writeups-of-CTFs-/wiki/NULLCON:-Paginator)
+**Write-up:** [Read Here](https://github.com/SPECT3R0/Writeups-of-CTFs-/wiki/NULLCON:-Paginator-(WEB))
 
 ### Reversing - Scrambled
 **Challenge:** Scrambled (Reversing)  
