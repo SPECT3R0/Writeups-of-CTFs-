@@ -25,5 +25,5 @@ This repository will be continuously updated with write-ups from upcoming CTF co
 If you'd like to contribute or discuss any of the solutions, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any queries or collaboration opportunities, reach out via GitHub Issues or directly message me on Twitter/Discord (if applicable).
+For any queries or collaboration opportunities, reach out via GitHub Issues or directly message me.
 
